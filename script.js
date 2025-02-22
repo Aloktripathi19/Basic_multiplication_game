@@ -1,5 +1,5 @@
  let s = 0
-        let r1 = Math.floor(Math.random() * 11);
+        let r1 = 1 + Math.floor(Math.random() * 11);
         let r2 = Math.floor(Math.random() * 11);
 
         document.getElementById('min2').innerHTML = r1;
