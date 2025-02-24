@@ -23,7 +23,7 @@
             }
             document.getElementsByTagName('input')[0].value = ""
            //again gen
-            r1 = Math.floor(Math.random() * 11)
+            r1 = 1 + Math.floor(Math.random() * 11)
             r2 = Math.floor(Math.random() * 11)
 
             document.getElementById('min2').innerHTML = r1
