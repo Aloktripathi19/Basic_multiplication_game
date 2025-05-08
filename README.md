@@ -28,3 +28,8 @@ This is a simple web-based multiplication game built using HTML and JavaScript. 
   - If correct: score (`s`) increases.
   - If incorrect: score decreases.
 - A new problem is generated after each attempt.
+
+## 📦 Future Ideas
+
+- Add a timer ⏱️
+- Add sounds for correct/incorrect responses 🔊
